@@ -1,4 +1,4 @@
-/tests/ch1name: upload-to-allure-testops
+/tests: upload-to-allure-testops
 
 on:
   # push:
