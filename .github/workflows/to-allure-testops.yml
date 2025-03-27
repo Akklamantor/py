@@ -22,7 +22,7 @@ on:
 env:
   ALLURE_TESTPLAN_PATH: "./testplan.json"
   ALLURE_RESULTS: "allure-results"
-  ALLURE_JOB_RUN_ID: ${{ github.event.inputs.ALLURE_JOB_RUN_ID }}
+  ALLURE_JOB_RUN_ID: 3036
 
 jobs:
   all-tests:
